@@ -1,0 +1,2154 @@
+[
+  {
+    "id": 53567,
+    "earliest": "2016-02-13",
+    "fullname": "WCS 2016 Winter Regional Challengers Europe WB Ro16",
+    "parent_id": 53565,
+    "latest": "2016-02-13",
+    "name": "Ro16"
+  },
+  {
+    "id": 53568,
+    "earliest": "2016-02-13",
+    "fullname": "WCS 2016 Winter Regional Challengers Europe WB Ro8",
+    "parent_id": 53565,
+    "latest": "2016-02-13",
+    "name": "Ro8"
+  },
+  {
+    "id": 53569,
+    "earliest": "2016-02-13",
+    "fullname": "WCS 2016 Winter Regional Challengers Europe WB Ro4",
+    "parent_id": 53565,
+    "latest": "2016-02-13",
+    "name": "Ro4"
+  },
+  {
+    "id": 53571,
+    "earliest": "2016-02-13",
+    "fullname": "WCS 2016 Winter Regional Challengers Europe LB Round 1",
+    "parent_id": 53566,
+    "latest": "2016-02-13",
+    "name": "Round 1"
+  },
+  {
+    "id": 53572,
+    "earliest": "2016-02-13",
+    "fullname": "WCS 2016 Winter Regional Challengers Europe LB Round 2",
+    "parent_id": 53566,
+    "latest": "2016-02-13",
+    "name": "Round 2"
+  },
+  {
+    "id": 53573,
+    "earliest": "2016-02-13",
+    "fullname": "WCS 2016 Winter Regional Challengers Europe LB Round 3",
+    "parent_id": 53566,
+    "latest": "2016-02-14",
+    "name": "Round 3"
+  },
+  {
+    "id": 53574,
+    "earliest": "2016-02-14",
+    "fullname": "WCS 2016 Winter Regional Challengers Europe LB Round 4",
+    "parent_id": 53566,
+    "latest": "2016-02-14",
+    "name": "Round 4"
+  },
+  {
+    "id": 53575,
+    "earliest": "2016-02-14",
+    "fullname": "WCS 2016 Winter Regional Challengers Europe LB Round 5",
+    "parent_id": 53566,
+    "latest": "2016-02-14",
+    "name": "Round 5"
+  },
+  {
+    "id": 53576,
+    "earliest": "2016-02-14",
+    "fullname": "WCS 2016 Winter Regional Challengers Europe LB Round 6",
+    "parent_id": 53566,
+    "latest": "2016-02-14",
+    "name": "Round 6"
+  },
+  {
+    "id": 53598,
+    "earliest": "2016-02-13",
+    "fullname": "WCS 2016 Winter Regional Challengers North America WB Ro16",
+    "parent_id": 53596,
+    "latest": "2016-02-13",
+    "name": "Ro16"
+  },
+  {
+    "id": 53599,
+    "earliest": "2016-02-13",
+    "fullname": "WCS 2016 Winter Regional Challengers North America WB Ro8",
+    "parent_id": 53596,
+    "latest": "2016-02-13",
+    "name": "Ro8"
+  },
+  {
+    "id": 53600,
+    "earliest": "2016-02-13",
+    "fullname": "WCS 2016 Winter Regional Challengers North America WB Ro4",
+    "parent_id": 53596,
+    "latest": "2016-02-13",
+    "name": "Ro4"
+  },
+  {
+    "id": 53601,
+    "earliest": "2016-02-14",
+    "fullname": "WCS 2016 Winter Regional Challengers North America WB Final",
+    "parent_id": 53596,
+    "latest": "2016-02-14",
+    "name": "Final"
+  },
+  {
+    "id": 53605,
+    "earliest": "2016-02-14",
+    "fullname": "WCS 2016 Winter Regional Challengers North America LB Round 4",
+    "parent_id": 53597,
+    "latest": "2016-02-14",
+    "name": "Round 4"
+  },
+  {
+    "id": 53606,
+    "earliest": "2016-02-14",
+    "fullname": "WCS 2016 Winter Regional Challengers North America LB Round 5",
+    "parent_id": 53597,
+    "latest": "2016-02-14",
+    "name": "Round 5"
+  },
+  {
+    "id": 53607,
+    "earliest": "2016-02-14",
+    "fullname": "WCS 2016 Winter Regional Challengers North America LB Round 6",
+    "parent_id": 53597,
+    "latest": "2016-02-14",
+    "name": "Round 6"
+  },
+  {
+    "id": 52998,
+    "earliest": "2016-01-27",
+    "fullname": "WCS 2016 Circuit Championship Winter NA Qualifier Week 1 Day 1 Ro128",
+    "parent_id": 52994,
+    "latest": "2016-01-27",
+    "name": "Ro128"
+  },
+  {
+    "id": 52999,
+    "earliest": "2016-01-27",
+    "fullname": "WCS 2016 Circuit Championship Winter NA Qualifier Week 1 Day 1 Ro64",
+    "parent_id": 52994,
+    "latest": "2016-01-27",
+    "name": "Ro64"
+  },
+  {
+    "id": 53000,
+    "earliest": "2016-01-27",
+    "fullname": "WCS 2016 Circuit Championship Winter NA Qualifier Week 1 Day 1 Ro32",
+    "parent_id": 52994,
+    "latest": "2016-01-27",
+    "name": "Ro32"
+  },
+  {
+    "id": 53001,
+    "earliest": "2016-01-27",
+    "fullname": "WCS 2016 Circuit Championship Winter NA Qualifier Week 1 Day 1 Ro16",
+    "parent_id": 52994,
+    "latest": "2016-01-27",
+    "name": "Ro16"
+  },
+  {
+    "id": 53002,
+    "earliest": "2016-01-27",
+    "fullname": "WCS 2016 Circuit Championship Winter NA Qualifier Week 1 Day 1 Ro8",
+    "parent_id": 52994,
+    "latest": "2016-01-27",
+    "name": "Ro8"
+  },
+  {
+    "id": 53050,
+    "earliest": "2016-01-30",
+    "fullname": "WCS 2016 Circuit Championship Winter NA Qualifier Week 1 Finals WB Ro8",
+    "parent_id": 53048,
+    "latest": "2016-01-30",
+    "name": "Ro8"
+  },
+  {
+    "id": 53051,
+    "earliest": "2016-01-30",
+    "fullname": "WCS 2016 Circuit Championship Winter NA Qualifier Week 1 Finals WB Ro4",
+    "parent_id": 53048,
+    "latest": "2016-01-30",
+    "name": "Ro4"
+  },
+  {
+    "id": 52987,
+    "earliest": "2016-01-27",
+    "fullname": "WCS 2016 Circuit Championship Winter EU Qualifier Week 1 Day 1 Ro128",
+    "parent_id": 52983,
+    "latest": "2016-01-27",
+    "name": "Ro128"
+  },
+  {
+    "id": 52988,
+    "earliest": "2016-01-27",
+    "fullname": "WCS 2016 Circuit Championship Winter EU Qualifier Week 1 Day 1 Ro64",
+    "parent_id": 52983,
+    "latest": "2016-01-27",
+    "name": "Ro64"
+  },
+  {
+    "id": 52989,
+    "earliest": "2016-01-27",
+    "fullname": "WCS 2016 Circuit Championship Winter EU Qualifier Week 1 Day 1 Ro32",
+    "parent_id": 52983,
+    "latest": "2016-01-27",
+    "name": "Ro32"
+  },
+  {
+    "id": 52990,
+    "earliest": "2016-01-27",
+    "fullname": "WCS 2016 Circuit Championship Winter EU Qualifier Week 1 Day 1 Ro16",
+    "parent_id": 52983,
+    "latest": "2016-01-27",
+    "name": "Ro16"
+  },
+  {
+    "id": 53004,
+    "earliest": "2016-01-28",
+    "fullname": "WCS 2016 Circuit Championship Winter EU Qualifier Week 1 Day 2 Ro128",
+    "parent_id": 52984,
+    "latest": "2016-01-28",
+    "name": "Ro128"
+  },
+  {
+    "id": 53005,
+    "earliest": "2016-01-28",
+    "fullname": "WCS 2016 Circuit Championship Winter EU Qualifier Week 1 Day 2 Ro64",
+    "parent_id": 52984,
+    "latest": "2016-01-28",
+    "name": "Ro64"
+  },
+  {
+    "id": 53006,
+    "earliest": "2016-01-28",
+    "fullname": "WCS 2016 Circuit Championship Winter EU Qualifier Week 1 Day 2 Ro32",
+    "parent_id": 52984,
+    "latest": "2016-01-28",
+    "name": "Ro32"
+  },
+  {
+    "id": 53007,
+    "earliest": "2016-01-28",
+    "fullname": "WCS 2016 Circuit Championship Winter EU Qualifier Week 1 Day 2 Ro16",
+    "parent_id": 52984,
+    "latest": "2016-01-28",
+    "name": "Ro16"
+  },
+  {
+    "id": 53008,
+    "earliest": "2016-01-28",
+    "fullname": "WCS 2016 Circuit Championship Winter EU Qualifier Week 1 Day 2 Ro8",
+    "parent_id": 52984,
+    "latest": "2016-01-28",
+    "name": "Ro8"
+  },
+  {
+    "id": 53038,
+    "earliest": "2016-01-30",
+    "fullname": "WCS 2016 Circuit Championship Winter EU Qualifier Week 1 Finals WB Ro8",
+    "parent_id": 53036,
+    "latest": "2016-01-30",
+    "name": "Ro8"
+  },
+  {
+    "id": 53039,
+    "earliest": "2016-01-30",
+    "fullname": "WCS 2016 Circuit Championship Winter EU Qualifier Week 1 Finals WB Ro4",
+    "parent_id": 53036,
+    "latest": "2016-01-30",
+    "name": "Ro4"
+  },
+  {
+    "id": 52575,
+    "earliest": "2016-01-19",
+    "fullname": "WCS 2016 Circuit Championship Winter National Qualifier Open Qualifier Ro64",
+    "parent_id": 52572,
+    "latest": "2016-01-19",
+    "name": "Ro64"
+  },
+  {
+    "id": 52576,
+    "earliest": "2016-01-19",
+    "fullname": "WCS 2016 Circuit Championship Winter National Qualifier Open Qualifier Ro32",
+    "parent_id": 52572,
+    "latest": "2016-01-19",
+    "name": "Ro32"
+  },
+  {
+    "id": 52577,
+    "earliest": "2016-01-19",
+    "fullname": "WCS 2016 Circuit Championship Winter National Qualifier Open Qualifier Ro16",
+    "parent_id": 52572,
+    "latest": "2016-01-19",
+    "name": "Ro16"
+  },
+  {
+    "id": 52581,
+    "earliest": "2016-01-20",
+    "fullname": "WCS 2016 Circuit Championship Winter National Qualifier Finals WB Ro8",
+    "parent_id": 52579,
+    "latest": "2016-01-20",
+    "name": "Ro8"
+  },
+  {
+    "id": 52582,
+    "earliest": "2016-01-20",
+    "fullname": "WCS 2016 Circuit Championship Winter National Qualifier Finals WB Ro4",
+    "parent_id": 52579,
+    "latest": "2016-01-20",
+    "name": "Ro4"
+  },
+  {
+    "id": 52583,
+    "earliest": "2016-01-20",
+    "fullname": "WCS 2016 Circuit Championship Winter National Qualifier Finals WB Final",
+    "parent_id": 52579,
+    "latest": "2016-01-20",
+    "name": "Final"
+  },
+  {
+    "id": 52587,
+    "earliest": "2016-01-20",
+    "fullname": "WCS 2016 Circuit Championship Winter National Qualifier Finals LB Round 4",
+    "parent_id": 52580,
+    "latest": "2016-01-20",
+    "name": "Round 4"
+  },
+  {
+    "id": 54185,
+    "earliest": "2016-03-02",
+    "fullname": "WCS 2016 Circuit Championship Winter Ro32",
+    "parent_id": 52568,
+    "latest": "2016-03-03",
+    "name": "Ro32"
+  },
+  {
+    "id": 54186,
+    "earliest": "2016-03-03",
+    "fullname": "WCS 2016 Circuit Championship Winter Ro16",
+    "parent_id": 52568,
+    "latest": "2016-03-04",
+    "name": "Ro16"
+  },
+  {
+    "id": 54187,
+    "earliest": "2016-03-04",
+    "fullname": "WCS 2016 Circuit Championship Winter Ro8",
+    "parent_id": 52568,
+    "latest": "2016-03-04",
+    "name": "Ro8"
+  },
+  {
+    "id": 54188,
+    "earliest": "2016-03-05",
+    "fullname": "WCS 2016 Circuit Championship Winter Ro4",
+    "parent_id": 52568,
+    "latest": "2016-03-05",
+    "name": "Ro4"
+  },
+  {
+    "id": 54189,
+    "earliest": "2016-03-05",
+    "fullname": "WCS 2016 Circuit Championship Winter Final",
+    "parent_id": 52568,
+    "latest": "2016-03-05",
+    "name": "Final"
+  },
+  {
+    "id": 56907,
+    "earliest": "2016-05-14",
+    "fullname": "WCS 2016 Circuit Championship Spring Ro32",
+    "parent_id": 55479,
+    "latest": "2016-05-14",
+    "name": "Ro32"
+  },
+  {
+    "id": 56908,
+    "earliest": "2016-05-15",
+    "fullname": "WCS 2016 Circuit Championship Spring Ro16",
+    "parent_id": 55479,
+    "latest": "2016-05-15",
+    "name": "Ro16"
+  },
+  {
+    "id": 56909,
+    "earliest": "2016-05-15",
+    "fullname": "WCS 2016 Circuit Championship Spring Ro8",
+    "parent_id": 55479,
+    "latest": "2016-05-15",
+    "name": "Ro8"
+  },
+  {
+    "id": 56910,
+    "earliest": "2016-05-16",
+    "fullname": "WCS 2016 Circuit Championship Spring Ro4",
+    "parent_id": 55479,
+    "latest": "2016-05-16",
+    "name": "Ro4"
+  },
+  {
+    "id": 56911,
+    "earliest": "2016-05-16",
+    "fullname": "WCS 2016 Circuit Championship Spring Final",
+    "parent_id": 55479,
+    "latest": "2016-05-16",
+    "name": "Final"
+  },
+  {
+    "id": 59813,
+    "earliest": "2016-07-20",
+    "fullname": "WCS 2016 Circuit Championship Summer North America #1 Ro64",
+    "parent_id": 59811,
+    "latest": "2016-07-20",
+    "name": "Ro64"
+  },
+  {
+    "id": 59814,
+    "earliest": "2016-07-20",
+    "fullname": "WCS 2016 Circuit Championship Summer North America #1 Ro32",
+    "parent_id": 59811,
+    "latest": "2016-07-20",
+    "name": "Ro32"
+  },
+  {
+    "id": 59815,
+    "earliest": "2016-07-20",
+    "fullname": "WCS 2016 Circuit Championship Summer North America #1 Ro16",
+    "parent_id": 59811,
+    "latest": "2016-07-20",
+    "name": "Ro16"
+  },
+  {
+    "id": 59941,
+    "earliest": "2016-07-23",
+    "fullname": "WCS 2016 Circuit Championship Summer North America Finals WB Ro16",
+    "parent_id": 59938,
+    "latest": "2016-07-23",
+    "name": "Ro16"
+  },
+  {
+    "id": 59942,
+    "earliest": "2016-07-23",
+    "fullname": "WCS 2016 Circuit Championship Summer North America Finals WB Ro8",
+    "parent_id": 59938,
+    "latest": "2016-07-23",
+    "name": "Ro8"
+  },
+  {
+    "id": 59943,
+    "earliest": "2016-07-23",
+    "fullname": "WCS 2016 Circuit Championship Summer North America Finals WB Ro4",
+    "parent_id": 59938,
+    "latest": "2016-07-23",
+    "name": "Ro4"
+  },
+  {
+    "id": 60492,
+    "earliest": "2016-08-12",
+    "fullname": "WCS 2016 Circuit Championship Summer Ro32",
+    "parent_id": 59731,
+    "latest": "2016-08-12",
+    "name": "Ro32"
+  },
+  {
+    "id": 60493,
+    "earliest": "2016-08-13",
+    "fullname": "WCS 2016 Circuit Championship Summer Ro16",
+    "parent_id": 59731,
+    "latest": "2016-08-13",
+    "name": "Ro16"
+  },
+  {
+    "id": 60494,
+    "earliest": "2016-08-13",
+    "fullname": "WCS 2016 Circuit Championship Summer Ro8",
+    "parent_id": 59731,
+    "latest": "2016-08-13",
+    "name": "Ro8"
+  },
+  {
+    "id": 60495,
+    "earliest": "2016-08-14",
+    "fullname": "WCS 2016 Circuit Championship Summer Ro4",
+    "parent_id": 59731,
+    "latest": "2016-08-14",
+    "name": "Ro4"
+  },
+  {
+    "id": 60496,
+    "earliest": "2016-08-14",
+    "fullname": "WCS 2016 Circuit Championship Summer Final",
+    "parent_id": 59731,
+    "latest": "2016-08-14",
+    "name": "Final"
+  },
+  {
+    "id": 55728,
+    "earliest": "2016-04-08",
+    "fullname": "WCS 2016 Spring Regional Challengers Europe WB Ro16",
+    "parent_id": 55726,
+    "latest": "2016-04-08",
+    "name": "Ro16"
+  },
+  {
+    "id": 55729,
+    "earliest": "2016-04-08",
+    "fullname": "WCS 2016 Spring Regional Challengers Europe WB Ro8",
+    "parent_id": 55726,
+    "latest": "2016-04-08",
+    "name": "Ro8"
+  },
+  {
+    "id": 55730,
+    "earliest": "2016-04-08",
+    "fullname": "WCS 2016 Spring Regional Challengers Europe WB Ro4",
+    "parent_id": 55726,
+    "latest": "2016-04-08",
+    "name": "Ro4"
+  },
+  {
+    "id": 55731,
+    "earliest": "2016-04-09",
+    "fullname": "WCS 2016 Spring Regional Challengers Europe WB Final",
+    "parent_id": 55726,
+    "latest": "2016-04-09",
+    "name": "Final"
+  },
+  {
+    "id": 55732,
+    "earliest": "2016-04-08",
+    "fullname": "WCS 2016 Spring Regional Challengers Europe LB Round 1",
+    "parent_id": 55727,
+    "latest": "2016-04-08",
+    "name": "Round 1"
+  },
+  {
+    "id": 55735,
+    "earliest": "2016-04-09",
+    "fullname": "WCS 2016 Spring Regional Challengers Europe LB Round 4",
+    "parent_id": 55727,
+    "latest": "2016-04-09",
+    "name": "Round 4"
+  },
+  {
+    "id": 55736,
+    "earliest": "2016-04-09",
+    "fullname": "WCS 2016 Spring Regional Challengers Europe LB Round 5",
+    "parent_id": 55727,
+    "latest": "2016-04-09",
+    "name": "Round 5"
+  },
+  {
+    "id": 55737,
+    "earliest": "2016-04-09",
+    "fullname": "WCS 2016 Spring Regional Challengers Europe LB Round 6",
+    "parent_id": 55727,
+    "latest": "2016-04-09",
+    "name": "Round 6"
+  },
+  {
+    "id": 55740,
+    "earliest": "2016-04-08",
+    "fullname": "WCS 2016 Spring Regional Challengers North America WB Ro16",
+    "parent_id": 55738,
+    "latest": "2016-04-08",
+    "name": "Ro16"
+  },
+  {
+    "id": 55741,
+    "earliest": "2016-04-08",
+    "fullname": "WCS 2016 Spring Regional Challengers North America WB Ro8",
+    "parent_id": 55738,
+    "latest": "2016-04-08",
+    "name": "Ro8"
+  },
+  {
+    "id": 55742,
+    "earliest": "2016-04-08",
+    "fullname": "WCS 2016 Spring Regional Challengers North America WB Ro4",
+    "parent_id": 55738,
+    "latest": "2016-04-08",
+    "name": "Ro4"
+  },
+  {
+    "id": 55743,
+    "earliest": "2016-04-09",
+    "fullname": "WCS 2016 Spring Regional Challengers North America WB Final",
+    "parent_id": 55738,
+    "latest": "2016-04-09",
+    "name": "Final"
+  },
+  {
+    "id": 55745,
+    "earliest": "2016-04-08",
+    "fullname": "WCS 2016 Spring Regional Challengers North America LB Round 2",
+    "parent_id": 55739,
+    "latest": "2016-04-08",
+    "name": "Round 2"
+  },
+  {
+    "id": 55746,
+    "earliest": "2016-04-08",
+    "fullname": "WCS 2016 Spring Regional Challengers North America LB Round 3",
+    "parent_id": 55739,
+    "latest": "2016-04-08",
+    "name": "Round 3"
+  },
+  {
+    "id": 55747,
+    "earliest": "2016-04-09",
+    "fullname": "WCS 2016 Spring Regional Challengers North America LB Round 4",
+    "parent_id": 55739,
+    "latest": "2016-04-09",
+    "name": "Round 4"
+  },
+  {
+    "id": 55748,
+    "earliest": "2016-04-09",
+    "fullname": "WCS 2016 Spring Regional Challengers North America LB Round 5",
+    "parent_id": 55739,
+    "latest": "2016-04-09",
+    "name": "Round 5"
+  },
+  {
+    "id": 55749,
+    "earliest": "2016-04-09",
+    "fullname": "WCS 2016 Spring Regional Challengers North America LB Round 6",
+    "parent_id": 55739,
+    "latest": "2016-04-09",
+    "name": "Round 6"
+  },
+  {
+    "id": 57168,
+    "earliest": "2016-05-22",
+    "fullname": "WCS 2016 Korean Cross Finals Season 1 Ro4",
+    "parent_id": 57167,
+    "latest": "2016-05-22",
+    "name": "Ro4"
+  },
+  {
+    "id": 57169,
+    "earliest": "2016-05-22",
+    "fullname": "WCS 2016 Korean Cross Finals Season 1 Final",
+    "parent_id": 57167,
+    "latest": "2016-05-22",
+    "name": "Final"
+  },
+  {
+    "id": 61988,
+    "earliest": "2016-09-25",
+    "fullname": "WCS 2016 Korean Cross Finals Season 2 Ro4",
+    "parent_id": 61987,
+    "latest": "2016-09-25",
+    "name": "Ro4"
+  },
+  {
+    "id": 61989,
+    "earliest": "2016-09-25",
+    "fullname": "WCS 2016 Korean Cross Finals Season 2 Final",
+    "parent_id": 61987,
+    "latest": "2016-09-25",
+    "name": "Final"
+  },
+  {
+    "id": 59339,
+    "earliest": "2016-07-08",
+    "fullname": "WCS 2016 Summer Regional Challengers North America WB Ro16",
+    "parent_id": 59335,
+    "latest": "2016-07-08",
+    "name": "Ro16"
+  },
+  {
+    "id": 59340,
+    "earliest": "2016-07-08",
+    "fullname": "WCS 2016 Summer Regional Challengers North America WB Ro8",
+    "parent_id": 59335,
+    "latest": "2016-07-08",
+    "name": "Ro8"
+  },
+  {
+    "id": 59341,
+    "earliest": "2016-07-08",
+    "fullname": "WCS 2016 Summer Regional Challengers North America WB Ro4",
+    "parent_id": 59335,
+    "latest": "2016-07-08",
+    "name": "Ro4"
+  },
+  {
+    "id": 59342,
+    "earliest": "2016-07-08",
+    "fullname": "WCS 2016 Summer Regional Challengers North America WB Final",
+    "parent_id": 59335,
+    "latest": "2016-07-08",
+    "name": "Final"
+  },
+  {
+    "id": 59344,
+    "earliest": "2016-07-08",
+    "fullname": "WCS 2016 Summer Regional Challengers North America LB Round 2",
+    "parent_id": 59336,
+    "latest": "2016-07-08",
+    "name": "Round 2"
+  },
+  {
+    "id": 59345,
+    "earliest": "2016-07-08",
+    "fullname": "WCS 2016 Summer Regional Challengers North America LB Round 3",
+    "parent_id": 59336,
+    "latest": "2016-07-08",
+    "name": "Round 3"
+  },
+  {
+    "id": 59348,
+    "earliest": "2016-07-09",
+    "fullname": "WCS 2016 Summer Regional Challengers North America LB Round 6",
+    "parent_id": 59336,
+    "latest": "2016-07-09",
+    "name": "Round 6"
+  },
+  {
+    "id": 59349,
+    "earliest": "2016-07-08",
+    "fullname": "WCS 2016 Summer Regional Challengers Europe WB Ro16",
+    "parent_id": 59337,
+    "latest": "2016-07-08",
+    "name": "Ro16"
+  },
+  {
+    "id": 59350,
+    "earliest": "2016-07-08",
+    "fullname": "WCS 2016 Summer Regional Challengers Europe WB Ro8",
+    "parent_id": 59337,
+    "latest": "2016-07-08",
+    "name": "Ro8"
+  },
+  {
+    "id": 59351,
+    "earliest": "2016-07-08",
+    "fullname": "WCS 2016 Summer Regional Challengers Europe WB Ro4",
+    "parent_id": 59337,
+    "latest": "2016-07-08",
+    "name": "Ro4"
+  },
+  {
+    "id": 59352,
+    "earliest": "2016-07-08",
+    "fullname": "WCS 2016 Summer Regional Challengers Europe WB Final",
+    "parent_id": 59337,
+    "latest": "2016-07-08",
+    "name": "Final"
+  },
+  {
+    "id": 59353,
+    "earliest": "2016-07-08",
+    "fullname": "WCS 2016 Summer Regional Challengers Europe LB Round 1",
+    "parent_id": 59338,
+    "latest": "2016-07-08",
+    "name": "Round 1"
+  },
+  {
+    "id": 59354,
+    "earliest": "2016-07-08",
+    "fullname": "WCS 2016 Summer Regional Challengers Europe LB Round 2",
+    "parent_id": 59338,
+    "latest": "2016-07-08",
+    "name": "Round 2"
+  },
+  {
+    "id": 59355,
+    "earliest": "2016-07-08",
+    "fullname": "WCS 2016 Summer Regional Challengers Europe LB Round 3",
+    "parent_id": 59338,
+    "latest": "2016-07-08",
+    "name": "Round 3"
+  },
+  {
+    "id": 59356,
+    "earliest": "2016-07-09",
+    "fullname": "WCS 2016 Summer Regional Challengers Europe LB Round 4",
+    "parent_id": 59338,
+    "latest": "2016-07-09",
+    "name": "Round 4"
+  },
+  {
+    "id": 59357,
+    "earliest": "2016-07-09",
+    "fullname": "WCS 2016 Summer Regional Challengers Europe LB Round 5",
+    "parent_id": 59338,
+    "latest": "2016-07-09",
+    "name": "Round 5"
+  },
+  {
+    "id": 51468,
+    "earliest": "2015-12-13",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 1 Qualifiers Day 1 Group A WB Ro8",
+    "parent_id": 51465,
+    "latest": "2015-12-13",
+    "name": "Ro8"
+  },
+  {
+    "id": 51469,
+    "earliest": "2015-12-13",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 1 Qualifiers Day 1 Group A WB Ro4",
+    "parent_id": 51465,
+    "latest": "2015-12-13",
+    "name": "Ro4"
+  },
+  {
+    "id": 51470,
+    "earliest": "2015-12-13",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 1 Qualifiers Day 1 Group A WB Final",
+    "parent_id": 51465,
+    "latest": "2015-12-13",
+    "name": "Final"
+  },
+  {
+    "id": 51472,
+    "earliest": "2015-12-13",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 1 Qualifiers Day 1 Group A LB Round 2",
+    "parent_id": 51466,
+    "latest": "2015-12-13",
+    "name": "Round 2"
+  },
+  {
+    "id": 51479,
+    "earliest": "2015-12-13",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 1 Qualifiers Day 1 Group B WB Ro16",
+    "parent_id": 51473,
+    "latest": "2015-12-13",
+    "name": "Ro16"
+  },
+  {
+    "id": 51480,
+    "earliest": "2015-12-13",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 1 Qualifiers Day 1 Group B WB Ro8",
+    "parent_id": 51473,
+    "latest": "2015-12-13",
+    "name": "Ro8"
+  },
+  {
+    "id": 51481,
+    "earliest": "2015-12-13",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 1 Qualifiers Day 1 Group B WB Ro4",
+    "parent_id": 51473,
+    "latest": "2015-12-13",
+    "name": "Ro4"
+  },
+  {
+    "id": 51482,
+    "earliest": "2015-12-13",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 1 Qualifiers Day 1 Group B WB Final",
+    "parent_id": 51473,
+    "latest": "2015-12-13",
+    "name": "Final"
+  },
+  {
+    "id": 51484,
+    "earliest": "2015-12-13",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 1 Qualifiers Day 1 Group B LB Round 2",
+    "parent_id": 51474,
+    "latest": "2015-12-13",
+    "name": "Round 2"
+  },
+  {
+    "id": 51505,
+    "earliest": "2015-12-14",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 1 Qualifiers Day 2 Group E WB Ro8",
+    "parent_id": 51502,
+    "latest": "2015-12-14",
+    "name": "Ro8"
+  },
+  {
+    "id": 51506,
+    "earliest": "2015-12-14",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 1 Qualifiers Day 2 Group E WB Ro4",
+    "parent_id": 51502,
+    "latest": "2015-12-14",
+    "name": "Ro4"
+  },
+  {
+    "id": 51507,
+    "earliest": "2015-12-14",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 1 Qualifiers Day 2 Group E WB Final",
+    "parent_id": 51502,
+    "latest": "2015-12-14",
+    "name": "Final"
+  },
+  {
+    "id": 51508,
+    "earliest": "2015-12-14",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 1 Qualifiers Day 2 Group E LB Round 1",
+    "parent_id": 51503,
+    "latest": "2015-12-14",
+    "name": "Round 1"
+  },
+  {
+    "id": 51509,
+    "earliest": "2015-12-14",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 1 Qualifiers Day 2 Group E LB Round 2",
+    "parent_id": 51503,
+    "latest": "2015-12-14",
+    "name": "Round 2"
+  },
+  {
+    "id": 51524,
+    "earliest": "2015-12-14",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 1 Qualifiers Day 2 Group H WB Ro16",
+    "parent_id": 51514,
+    "latest": "2015-12-14",
+    "name": "Ro16"
+  },
+  {
+    "id": 51525,
+    "earliest": "2015-12-14",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 1 Qualifiers Day 2 Group H WB Ro8",
+    "parent_id": 51514,
+    "latest": "2015-12-14",
+    "name": "Ro8"
+  },
+  {
+    "id": 51526,
+    "earliest": "2015-12-14",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 1 Qualifiers Day 2 Group H WB Ro4",
+    "parent_id": 51514,
+    "latest": "2015-12-14",
+    "name": "Ro4"
+  },
+  {
+    "id": 51527,
+    "earliest": "2015-12-14",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 1 Qualifiers Day 2 Group H WB Final",
+    "parent_id": 51514,
+    "latest": "2015-12-14",
+    "name": "Final"
+  },
+  {
+    "id": 51533,
+    "earliest": "2015-12-14",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 1 Qualifiers Day 2 Group H LB Round 2",
+    "parent_id": 51515,
+    "latest": "2015-12-14",
+    "name": "Round 2"
+  },
+  {
+    "id": 51551,
+    "earliest": "2015-12-15",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 1 Ro16",
+    "parent_id": 51445,
+    "latest": "2015-12-16",
+    "name": "Ro16"
+  },
+  {
+    "id": 51552,
+    "earliest": "2015-12-17",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 1 Ro8",
+    "parent_id": 51445,
+    "latest": "2015-12-17",
+    "name": "Ro8"
+  },
+  {
+    "id": 51553,
+    "earliest": "2015-12-18",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 1 Ro4",
+    "parent_id": 51445,
+    "latest": "2015-12-18",
+    "name": "Ro4"
+  },
+  {
+    "id": 51836,
+    "earliest": "2015-12-20",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Qualifiers Group A WB Ro8",
+    "parent_id": 51819,
+    "latest": "2015-12-20",
+    "name": "Ro8"
+  },
+  {
+    "id": 51837,
+    "earliest": "2015-12-20",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Qualifiers Group A WB Ro4",
+    "parent_id": 51819,
+    "latest": "2015-12-20",
+    "name": "Ro4"
+  },
+  {
+    "id": 51839,
+    "earliest": "2015-12-20",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Qualifiers Group A LB Round 1",
+    "parent_id": 51820,
+    "latest": "2015-12-20",
+    "name": "Round 1"
+  },
+  {
+    "id": 51840,
+    "earliest": "2015-12-20",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Qualifiers Group A LB Round 2",
+    "parent_id": 51820,
+    "latest": "2015-12-20",
+    "name": "Round 2"
+  },
+  {
+    "id": 51851,
+    "earliest": "2015-12-20",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Qualifiers Group C WB Ro16",
+    "parent_id": 51823,
+    "latest": "2015-12-20",
+    "name": "Ro16"
+  },
+  {
+    "id": 51845,
+    "earliest": "2015-12-20",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Qualifiers Group C WB Ro8",
+    "parent_id": 51823,
+    "latest": "2015-12-20",
+    "name": "Ro8"
+  },
+  {
+    "id": 51846,
+    "earliest": "2015-12-20",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Qualifiers Group C WB Ro4",
+    "parent_id": 51823,
+    "latest": "2015-12-20",
+    "name": "Ro4"
+  },
+  {
+    "id": 51847,
+    "earliest": "2015-12-20",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Qualifiers Group C WB Final",
+    "parent_id": 51823,
+    "latest": "2015-12-20",
+    "name": "Final"
+  },
+  {
+    "id": 51854,
+    "earliest": "2015-12-20",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Qualifiers Group C LB Round 2",
+    "parent_id": 51824,
+    "latest": "2015-12-20",
+    "name": "Round 2"
+  },
+  {
+    "id": 51856,
+    "earliest": "2015-12-20",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Qualifiers Group E WB Ro8",
+    "parent_id": 51827,
+    "latest": "2015-12-20",
+    "name": "Ro8"
+  },
+  {
+    "id": 51857,
+    "earliest": "2015-12-20",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Qualifiers Group E WB Ro4",
+    "parent_id": 51827,
+    "latest": "2015-12-20",
+    "name": "Ro4"
+  },
+  {
+    "id": 51873,
+    "earliest": "2015-12-20",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Qualifiers Group E LB Round 1",
+    "parent_id": 51828,
+    "latest": "2015-12-20",
+    "name": "Round 1"
+  },
+  {
+    "id": 51874,
+    "earliest": "2015-12-20",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Qualifiers Group E LB Round 2",
+    "parent_id": 51828,
+    "latest": "2015-12-20",
+    "name": "Round 2"
+  },
+  {
+    "id": 51859,
+    "earliest": "2015-12-20",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Qualifiers Group F WB Ro16",
+    "parent_id": 51829,
+    "latest": "2015-12-20",
+    "name": "Ro16"
+  },
+  {
+    "id": 51860,
+    "earliest": "2015-12-20",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Qualifiers Group F WB Ro8",
+    "parent_id": 51829,
+    "latest": "2015-12-20",
+    "name": "Ro8"
+  },
+  {
+    "id": 51861,
+    "earliest": "2015-12-20",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Qualifiers Group F WB Ro4",
+    "parent_id": 51829,
+    "latest": "2015-12-20",
+    "name": "Ro4"
+  },
+  {
+    "id": 51862,
+    "earliest": "2015-12-20",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Qualifiers Group F WB Final",
+    "parent_id": 51829,
+    "latest": "2015-12-20",
+    "name": "Final"
+  },
+  {
+    "id": 51875,
+    "earliest": "2015-12-20",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Qualifiers Group F LB Round 1",
+    "parent_id": 51830,
+    "latest": "2015-12-20",
+    "name": "Round 1"
+  },
+  {
+    "id": 51876,
+    "earliest": "2015-12-20",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Qualifiers Group F LB Round 2",
+    "parent_id": 51830,
+    "latest": "2015-12-20",
+    "name": "Round 2"
+  },
+  {
+    "id": 51867,
+    "earliest": "2015-12-20",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Qualifiers Group H WB Ro16",
+    "parent_id": 51833,
+    "latest": "2015-12-20",
+    "name": "Ro16"
+  },
+  {
+    "id": 51868,
+    "earliest": "2015-12-20",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Qualifiers Group H WB Ro8",
+    "parent_id": 51833,
+    "latest": "2015-12-20",
+    "name": "Ro8"
+  },
+  {
+    "id": 51869,
+    "earliest": "2015-12-20",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Qualifiers Group H WB Ro4",
+    "parent_id": 51833,
+    "latest": "2015-12-20",
+    "name": "Ro4"
+  },
+  {
+    "id": 51870,
+    "earliest": "2015-12-20",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Qualifiers Group H WB Final",
+    "parent_id": 51833,
+    "latest": "2015-12-20",
+    "name": "Final"
+  },
+  {
+    "id": 51937,
+    "earliest": "2015-12-23",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Ro16",
+    "parent_id": 51809,
+    "latest": "2015-12-24",
+    "name": "Ro16"
+  },
+  {
+    "id": 51938,
+    "earliest": "2015-12-25",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Ro8",
+    "parent_id": 51809,
+    "latest": "2015-12-25",
+    "name": "Ro8"
+  },
+  {
+    "id": 51939,
+    "earliest": "2015-12-26",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Ro4",
+    "parent_id": 51809,
+    "latest": "2015-12-26",
+    "name": "Ro4"
+  },
+  {
+    "id": 51940,
+    "earliest": "2015-12-26",
+    "fullname": "GSL 2016 Season 1 Pre-Season Week 2 Final",
+    "parent_id": 51809,
+    "latest": "2015-12-26",
+    "name": "Final"
+  },
+  {
+    "id": 52012,
+    "earliest": "2015-12-29",
+    "fullname": "GSL 2016 Season 1 Qualifiers Morning Group B Ro4",
+    "parent_id": 51975,
+    "latest": "2015-12-29",
+    "name": "Ro4"
+  },
+  {
+    "id": 52014,
+    "earliest": "2015-12-29",
+    "fullname": "GSL 2016 Season 1 Qualifiers Morning Group B Final",
+    "parent_id": 51975,
+    "latest": "2015-12-29",
+    "name": "Final"
+  },
+  {
+    "id": 52024,
+    "earliest": "2015-12-29",
+    "fullname": "GSL 2016 Season 1 Qualifiers Morning Group E Ro4",
+    "parent_id": 51978,
+    "latest": "2015-12-29",
+    "name": "Ro4"
+  },
+  {
+    "id": 52025,
+    "earliest": "2015-12-29",
+    "fullname": "GSL 2016 Season 1 Qualifiers Morning Group E Third place match",
+    "parent_id": 51978,
+    "latest": "2015-12-29",
+    "name": "Third place match"
+  },
+  {
+    "id": 52028,
+    "earliest": "2015-12-29",
+    "fullname": "GSL 2016 Season 1 Qualifiers Morning Group F Ro4",
+    "parent_id": 51979,
+    "latest": "2015-12-29",
+    "name": "Ro4"
+  },
+  {
+    "id": 52030,
+    "earliest": "2015-12-29",
+    "fullname": "GSL 2016 Season 1 Qualifiers Morning Group F Final",
+    "parent_id": 51979,
+    "latest": "2015-12-29",
+    "name": "Final"
+  },
+  {
+    "id": 52044,
+    "earliest": "2015-12-29",
+    "fullname": "GSL 2016 Season 1 Qualifiers Morning Group J Ro4",
+    "parent_id": 51983,
+    "latest": "2015-12-29",
+    "name": "Ro4"
+  },
+  {
+    "id": 52045,
+    "earliest": "2015-12-29",
+    "fullname": "GSL 2016 Season 1 Qualifiers Morning Group J Third place match",
+    "parent_id": 51983,
+    "latest": "2015-12-29",
+    "name": "Third place match"
+  },
+  {
+    "id": 52066,
+    "earliest": "2015-12-29",
+    "fullname": "GSL 2016 Season 1 Qualifiers Afternoon Group C Ro4",
+    "parent_id": 52049,
+    "latest": "2015-12-29",
+    "name": "Ro4"
+  },
+  {
+    "id": 52068,
+    "earliest": "2015-12-29",
+    "fullname": "GSL 2016 Season 1 Qualifiers Afternoon Group C Final",
+    "parent_id": 52049,
+    "latest": "2015-12-29",
+    "name": "Final"
+  },
+  {
+    "id": 52074,
+    "earliest": "2015-12-29",
+    "fullname": "GSL 2016 Season 1 Qualifiers Afternoon Group E Ro4",
+    "parent_id": 52051,
+    "latest": "2015-12-29",
+    "name": "Ro4"
+  },
+  {
+    "id": 52076,
+    "earliest": "2015-12-29",
+    "fullname": "GSL 2016 Season 1 Qualifiers Afternoon Group E Final",
+    "parent_id": 52051,
+    "latest": "2015-12-29",
+    "name": "Final"
+  },
+  {
+    "id": 52078,
+    "earliest": "2015-12-29",
+    "fullname": "GSL 2016 Season 1 Qualifiers Afternoon Group F Ro4",
+    "parent_id": 52052,
+    "latest": "2015-12-29",
+    "name": "Ro4"
+  },
+  {
+    "id": 52080,
+    "earliest": "2015-12-29",
+    "fullname": "GSL 2016 Season 1 Qualifiers Afternoon Group F Final",
+    "parent_id": 52052,
+    "latest": "2015-12-29",
+    "name": "Final"
+  },
+  {
+    "id": 52082,
+    "earliest": "2015-12-29",
+    "fullname": "GSL 2016 Season 1 Qualifiers Afternoon Group G Ro4",
+    "parent_id": 52053,
+    "latest": "2015-12-29",
+    "name": "Ro4"
+  },
+  {
+    "id": 52084,
+    "earliest": "2015-12-29",
+    "fullname": "GSL 2016 Season 1 Qualifiers Afternoon Group G Final",
+    "parent_id": 52053,
+    "latest": "2015-12-29",
+    "name": "Final"
+  },
+  {
+    "id": 52390,
+    "earliest": "2016-01-13",
+    "fullname": "GSL 2016 Season 1 Code A Day 2",
+    "parent_id": 52255,
+    "latest": "2016-01-13",
+    "name": "Day 2"
+  },
+  {
+    "id": 52408,
+    "earliest": "2016-01-15",
+    "fullname": "GSL 2016 Season 1 Code A Day 3",
+    "parent_id": 52255,
+    "latest": "2016-01-15",
+    "name": "Day 3"
+  },
+  {
+    "id": 52578,
+    "earliest": "2016-01-20",
+    "fullname": "GSL 2016 Season 1 Code A Day 4",
+    "parent_id": 52255,
+    "latest": "2016-01-20",
+    "name": "Day 4"
+  },
+  {
+    "id": 52610,
+    "earliest": "2016-01-22",
+    "fullname": "GSL 2016 Season 1 Code A Day 5",
+    "parent_id": 52255,
+    "latest": "2016-01-22",
+    "name": "Day 5"
+  },
+  {
+    "id": 52980,
+    "earliest": "2016-01-27",
+    "fullname": "GSL 2016 Season 1 Code A Day 6",
+    "parent_id": 52255,
+    "latest": "2016-01-27",
+    "name": "Day 6"
+  },
+  {
+    "id": 53021,
+    "earliest": "2016-01-29",
+    "fullname": "GSL 2016 Season 1 Code A Day 7",
+    "parent_id": 52255,
+    "latest": "2016-01-29",
+    "name": "Day 7"
+  },
+  {
+    "id": 53223,
+    "earliest": "2016-02-03",
+    "fullname": "GSL 2016 Season 1 Code A Day 8",
+    "parent_id": 52255,
+    "latest": "2016-02-03",
+    "name": "Day 8"
+  },
+  {
+    "id": 53742,
+    "earliest": "2016-02-17",
+    "fullname": "GSL 2016 Season 1 Code S Ro32 Group A",
+    "parent_id": 53737,
+    "latest": "2016-02-17",
+    "name": "Group A"
+  },
+  {
+    "id": 53746,
+    "earliest": "2016-03-02",
+    "fullname": "GSL 2016 Season 1 Code S Ro32 Group E",
+    "parent_id": 53737,
+    "latest": "2016-03-02",
+    "name": "Group E"
+  },
+  {
+    "id": 53747,
+    "earliest": "2016-03-04",
+    "fullname": "GSL 2016 Season 1 Code S Ro32 Group F",
+    "parent_id": 53737,
+    "latest": "2016-03-04",
+    "name": "Group F"
+  },
+  {
+    "id": 53748,
+    "earliest": "2016-03-09",
+    "fullname": "GSL 2016 Season 1 Code S Ro32 Group G",
+    "parent_id": 53737,
+    "latest": "2016-03-09",
+    "name": "Group G"
+  },
+  {
+    "id": 53749,
+    "earliest": "2016-03-11",
+    "fullname": "GSL 2016 Season 1 Code S Ro32 Group H",
+    "parent_id": 53737,
+    "latest": "2016-03-11",
+    "name": "Group H"
+  },
+  {
+    "id": 55342,
+    "earliest": "2016-04-02",
+    "fullname": "GSL 2016 Season 1 Code S Ro16 Group B",
+    "parent_id": 53738,
+    "latest": "2016-04-02",
+    "name": "Group B"
+  },
+  {
+    "id": 55343,
+    "earliest": "2016-04-06",
+    "fullname": "GSL 2016 Season 1 Code S Ro16 Group C",
+    "parent_id": 53738,
+    "latest": "2016-04-06",
+    "name": "Group C"
+  },
+  {
+    "id": 55344,
+    "earliest": "2016-04-08",
+    "fullname": "GSL 2016 Season 1 Code S Ro16 Group D",
+    "parent_id": 53738,
+    "latest": "2016-04-08",
+    "name": "Group D"
+  },
+  {
+    "id": 53739,
+    "earliest": "2016-04-13",
+    "fullname": "GSL 2016 Season 1 Code S Ro8",
+    "parent_id": 53736,
+    "latest": "2016-04-15",
+    "name": "Ro8"
+  },
+  {
+    "id": 53740,
+    "earliest": "2016-04-20",
+    "fullname": "GSL 2016 Season 1 Code S Ro4",
+    "parent_id": 53736,
+    "latest": "2016-04-22",
+    "name": "Ro4"
+  },
+  {
+    "id": 53741,
+    "earliest": "2016-05-01",
+    "fullname": "GSL 2016 Season 1 Code S Final",
+    "parent_id": 53736,
+    "latest": "2016-05-01",
+    "name": "Final"
+  },
+  {
+    "id": 56676,
+    "earliest": "2016-05-11",
+    "fullname": "GSL 2016 Season 2 Qualifier Morning Group E Ro4",
+    "parent_id": 56661,
+    "latest": "2016-05-11",
+    "name": "Ro4"
+  },
+  {
+    "id": 56677,
+    "earliest": "2016-05-11",
+    "fullname": "GSL 2016 Season 2 Qualifier Morning Group E Final",
+    "parent_id": 56661,
+    "latest": "2016-05-11",
+    "name": "Final"
+  },
+  {
+    "id": 56699,
+    "earliest": "2016-05-11",
+    "fullname": "GSL 2016 Season 2 Qualifier Afternoon Group A Ro8",
+    "parent_id": 56693,
+    "latest": "2016-05-11",
+    "name": "Ro8"
+  },
+  {
+    "id": 56700,
+    "earliest": "2016-05-11",
+    "fullname": "GSL 2016 Season 2 Qualifier Afternoon Group A Ro4",
+    "parent_id": 56693,
+    "latest": "2016-05-11",
+    "name": "Ro4"
+  },
+  {
+    "id": 56701,
+    "earliest": "2016-05-11",
+    "fullname": "GSL 2016 Season 2 Qualifier Afternoon Group A Final",
+    "parent_id": 56693,
+    "latest": "2016-05-11",
+    "name": "Final"
+  },
+  {
+    "id": 56708,
+    "earliest": "2016-05-11",
+    "fullname": "GSL 2016 Season 2 Qualifier Afternoon Group D Ro8",
+    "parent_id": 56696,
+    "latest": "2016-05-11",
+    "name": "Ro8"
+  },
+  {
+    "id": 56709,
+    "earliest": "2016-05-11",
+    "fullname": "GSL 2016 Season 2 Qualifier Afternoon Group D Ro4",
+    "parent_id": 56696,
+    "latest": "2016-05-11",
+    "name": "Ro4"
+  },
+  {
+    "id": 56710,
+    "earliest": "2016-05-11",
+    "fullname": "GSL 2016 Season 2 Qualifier Afternoon Group D Final",
+    "parent_id": 56696,
+    "latest": "2016-05-11",
+    "name": "Final"
+  },
+  {
+    "id": 56718,
+    "earliest": "2016-05-11",
+    "fullname": "GSL 2016 Season 2 Qualifier Afternoon Group D LB Round 2",
+    "parent_id": 56696,
+    "latest": "2016-05-11",
+    "name": "LB Round 2"
+  },
+  {
+    "id": 57362,
+    "earliest": "2016-05-27",
+    "fullname": "GSL 2016 Season 2 Code A Day 1",
+    "parent_id": 57361,
+    "latest": "2016-05-27",
+    "name": "Day 1"
+  },
+  {
+    "id": 57552,
+    "earliest": "2016-06-01",
+    "fullname": "GSL 2016 Season 2 Code A Day 2",
+    "parent_id": 57361,
+    "latest": "2016-06-01",
+    "name": "Day 2"
+  },
+  {
+    "id": 58156,
+    "earliest": "2016-06-10",
+    "fullname": "GSL 2016 Season 2 Code A Day 5",
+    "parent_id": 57361,
+    "latest": "2016-06-10",
+    "name": "Day 5"
+  },
+  {
+    "id": 58485,
+    "earliest": "2016-06-15",
+    "fullname": "GSL 2016 Season 2 Code A Day 6",
+    "parent_id": 57361,
+    "latest": "2016-06-15",
+    "name": "Day 6"
+  },
+  {
+    "id": 58589,
+    "earliest": "2016-06-17",
+    "fullname": "GSL 2016 Season 2 Code A Day 7",
+    "parent_id": 57361,
+    "latest": "2016-06-17",
+    "name": "Day 7"
+  },
+  {
+    "id": 58781,
+    "earliest": "2016-06-22",
+    "fullname": "GSL 2016 Season 2 Code A Day 8",
+    "parent_id": 57361,
+    "latest": "2016-06-22",
+    "name": "Day 8"
+  },
+  {
+    "id": 59176,
+    "earliest": "2016-07-06",
+    "fullname": "GSL 2016 Season 2 Code S Ro32 Group A",
+    "parent_id": 59171,
+    "latest": "2016-07-06",
+    "name": "Group A"
+  },
+  {
+    "id": 59177,
+    "earliest": "2016-07-08",
+    "fullname": "GSL 2016 Season 2 Code S Ro32 Group B",
+    "parent_id": 59171,
+    "latest": "2016-07-08",
+    "name": "Group B"
+  },
+  {
+    "id": 59178,
+    "earliest": "2016-07-13",
+    "fullname": "GSL 2016 Season 2 Code S Ro32 Group C",
+    "parent_id": 59171,
+    "latest": "2016-07-13",
+    "name": "Group C"
+  },
+  {
+    "id": 59180,
+    "earliest": "2016-07-20",
+    "fullname": "GSL 2016 Season 2 Code S Ro32 Group E",
+    "parent_id": 59171,
+    "latest": "2016-07-20",
+    "name": "Group E"
+  },
+  {
+    "id": 59182,
+    "earliest": "2016-07-27",
+    "fullname": "GSL 2016 Season 2 Code S Ro32 Group G",
+    "parent_id": 59171,
+    "latest": "2016-07-27",
+    "name": "Group G"
+  },
+  {
+    "id": 59183,
+    "earliest": "2016-07-29",
+    "fullname": "GSL 2016 Season 2 Code S Ro32 Group H",
+    "parent_id": 59171,
+    "latest": "2016-07-29",
+    "name": "Group H"
+  },
+  {
+    "id": 60465,
+    "earliest": "2016-08-10",
+    "fullname": "GSL 2016 Season 2 Code S Ro16 Group A",
+    "parent_id": 59172,
+    "latest": "2016-08-10",
+    "name": "Group A"
+  },
+  {
+    "id": 60466,
+    "earliest": "2016-08-12",
+    "fullname": "GSL 2016 Season 2 Code S Ro16 Group B",
+    "parent_id": 59172,
+    "latest": "2016-08-12",
+    "name": "Group B"
+  },
+  {
+    "id": 60467,
+    "earliest": "2016-08-17",
+    "fullname": "GSL 2016 Season 2 Code S Ro16 Group C",
+    "parent_id": 59172,
+    "latest": "2016-08-17",
+    "name": "Group C"
+  },
+  {
+    "id": 60468,
+    "earliest": "2016-08-19",
+    "fullname": "GSL 2016 Season 2 Code S Ro16 Group D",
+    "parent_id": 59172,
+    "latest": "2016-08-19",
+    "name": "Group D"
+  },
+  {
+    "id": 59173,
+    "earliest": "2016-08-24",
+    "fullname": "GSL 2016 Season 2 Code S Ro8",
+    "parent_id": 59170,
+    "latest": "2016-08-26",
+    "name": "Ro8"
+  },
+  {
+    "id": 59174,
+    "earliest": "2016-08-31",
+    "fullname": "GSL 2016 Season 2 Code S Ro4",
+    "parent_id": 59170,
+    "latest": "2016-09-02",
+    "name": "Ro4"
+  },
+  {
+    "id": 59175,
+    "earliest": "2016-09-10",
+    "fullname": "GSL 2016 Season 2 Code S Final",
+    "parent_id": 59170,
+    "latest": "2016-09-10",
+    "name": "Final"
+  },
+  {
+    "id": 51670,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Morning Group C WB Ro8",
+    "parent_id": 51657,
+    "latest": "2015-12-17",
+    "name": "Ro8"
+  },
+  {
+    "id": 51671,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Morning Group C WB Ro4",
+    "parent_id": 51657,
+    "latest": "2015-12-17",
+    "name": "Ro4"
+  },
+  {
+    "id": 51672,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Morning Group C WB Final",
+    "parent_id": 51657,
+    "latest": "2015-12-17",
+    "name": "Final"
+  },
+  {
+    "id": 51681,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Morning Group C LB Round 1",
+    "parent_id": 51658,
+    "latest": "2015-12-17",
+    "name": "Round 1"
+  },
+  {
+    "id": 51674,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Morning Group D WB Ro8",
+    "parent_id": 51659,
+    "latest": "2015-12-17",
+    "name": "Ro8"
+  },
+  {
+    "id": 51675,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Morning Group D WB Ro4",
+    "parent_id": 51659,
+    "latest": "2015-12-17",
+    "name": "Ro4"
+  },
+  {
+    "id": 51676,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Morning Group D WB Final",
+    "parent_id": 51659,
+    "latest": "2015-12-17",
+    "name": "Final"
+  },
+  {
+    "id": 51683,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Morning Group D LB Round 1",
+    "parent_id": 51660,
+    "latest": "2015-12-17",
+    "name": "Round 1"
+  },
+  {
+    "id": 51684,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Morning Group D LB Round 2",
+    "parent_id": 51660,
+    "latest": "2015-12-17",
+    "name": "Round 2"
+  },
+  {
+    "id": 51698,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Afternoon Group E WB Ro8",
+    "parent_id": 51689,
+    "latest": "2015-12-17",
+    "name": "Ro8"
+  },
+  {
+    "id": 51699,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Afternoon Group E WB Ro4",
+    "parent_id": 51689,
+    "latest": "2015-12-17",
+    "name": "Ro4"
+  },
+  {
+    "id": 51713,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Afternoon Group E LB Round 1",
+    "parent_id": 51690,
+    "latest": "2015-12-17",
+    "name": "Round 1"
+  },
+  {
+    "id": 51702,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Afternoon Group F WB Ro8",
+    "parent_id": 51691,
+    "latest": "2015-12-17",
+    "name": "Ro8"
+  },
+  {
+    "id": 51703,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Afternoon Group F WB Ro4",
+    "parent_id": 51691,
+    "latest": "2015-12-17",
+    "name": "Ro4"
+  },
+  {
+    "id": 51704,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Afternoon Group F WB Final",
+    "parent_id": 51691,
+    "latest": "2015-12-17",
+    "name": "Final"
+  },
+  {
+    "id": 51716,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Afternoon Group F LB Round 2",
+    "parent_id": 51692,
+    "latest": "2015-12-17",
+    "name": "Round 2"
+  },
+  {
+    "id": 51705,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Afternoon Group G WB Ro16",
+    "parent_id": 51693,
+    "latest": "2015-12-17",
+    "name": "Ro16"
+  },
+  {
+    "id": 51706,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Afternoon Group G WB Ro8",
+    "parent_id": 51693,
+    "latest": "2015-12-17",
+    "name": "Ro8"
+  },
+  {
+    "id": 51707,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Afternoon Group G WB Ro4",
+    "parent_id": 51693,
+    "latest": "2015-12-17",
+    "name": "Ro4"
+  },
+  {
+    "id": 51708,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Afternoon Group G WB Final",
+    "parent_id": 51693,
+    "latest": "2015-12-17",
+    "name": "Final"
+  },
+  {
+    "id": 51718,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Afternoon Group G LB Round 2",
+    "parent_id": 51694,
+    "latest": "2015-12-17",
+    "name": "Round 2"
+  },
+  {
+    "id": 51710,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Afternoon Group H WB Ro8",
+    "parent_id": 51695,
+    "latest": "2015-12-17",
+    "name": "Ro8"
+  },
+  {
+    "id": 51711,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Afternoon Group H WB Ro4",
+    "parent_id": 51695,
+    "latest": "2015-12-17",
+    "name": "Ro4"
+  },
+  {
+    "id": 51719,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Afternoon Group H LB Round 1",
+    "parent_id": 51696,
+    "latest": "2015-12-17",
+    "name": "Round 1"
+  },
+  {
+    "id": 51720,
+    "earliest": "2015-12-17",
+    "fullname": "SSL 2016 Season 1 Qualifiers Afternoon Group H LB Round 2",
+    "parent_id": 51696,
+    "latest": "2015-12-17",
+    "name": "Round 2"
+  },
+  {
+    "id": 52231,
+    "earliest": "2016-01-07",
+    "fullname": "SSL 2016 Season 1 Main Event WB Ro16",
+    "parent_id": 52228,
+    "latest": "2016-01-21",
+    "name": "Ro16"
+  },
+  {
+    "id": 52232,
+    "earliest": "2016-02-04",
+    "fullname": "SSL 2016 Season 1 Main Event WB Ro8",
+    "parent_id": 52228,
+    "latest": "2016-02-11",
+    "name": "Ro8"
+  },
+  {
+    "id": 52233,
+    "earliest": "2016-02-25",
+    "fullname": "SSL 2016 Season 1 Main Event WB Ro4",
+    "parent_id": 52228,
+    "latest": "2016-02-25",
+    "name": "Ro4"
+  },
+  {
+    "id": 52234,
+    "earliest": "2016-03-24",
+    "fullname": "SSL 2016 Season 1 Main Event WB Final",
+    "parent_id": 52228,
+    "latest": "2016-03-24",
+    "name": "Final"
+  },
+  {
+    "id": 52236,
+    "earliest": "2016-02-18",
+    "fullname": "SSL 2016 Season 1 Main Event LB Round 2",
+    "parent_id": 52229,
+    "latest": "2016-02-18",
+    "name": "Round 2"
+  },
+  {
+    "id": 54195,
+    "earliest": "2016-03-03",
+    "fullname": "SSL 2016 Season 1 Main Event LB Round 3",
+    "parent_id": 52229,
+    "latest": "2016-03-03",
+    "name": "Round 3"
+  },
+  {
+    "id": 54196,
+    "earliest": "2016-03-10",
+    "fullname": "SSL 2016 Season 1 Main Event LB Round 4",
+    "parent_id": 52229,
+    "latest": "2016-03-10",
+    "name": "Round 4"
+  },
+  {
+    "id": 54197,
+    "earliest": "2016-03-17",
+    "fullname": "SSL 2016 Season 1 Main Event LB Round 5",
+    "parent_id": 52229,
+    "latest": "2016-03-17",
+    "name": "Round 5"
+  },
+  {
+    "id": 54198,
+    "earliest": "2016-03-31",
+    "fullname": "SSL 2016 Season 1 Main Event LB Round 6",
+    "parent_id": 52229,
+    "latest": "2016-03-31",
+    "name": "Round 6"
+  },
+  {
+    "id": 52230,
+    "earliest": "2016-04-09",
+    "fullname": "SSL 2016 Season 1 Main Event Final",
+    "parent_id": 52227,
+    "latest": "2016-04-09",
+    "name": "Final"
+  },
+  {
+    "id": 56761,
+    "earliest": "2016-05-12",
+    "fullname": "SSL 2016 Season 2 Qualifier Morning Group 1 WB Ro8",
+    "parent_id": 56748,
+    "latest": "2016-05-12",
+    "name": "Ro8"
+  },
+  {
+    "id": 56762,
+    "earliest": "2016-05-12",
+    "fullname": "SSL 2016 Season 2 Qualifier Morning Group 1 WB Ro4",
+    "parent_id": 56748,
+    "latest": "2016-05-12",
+    "name": "Ro4"
+  },
+  {
+    "id": 56763,
+    "earliest": "2016-05-12",
+    "fullname": "SSL 2016 Season 2 Qualifier Morning Group 1 WB Final",
+    "parent_id": 56748,
+    "latest": "2016-05-12",
+    "name": "Final"
+  },
+  {
+    "id": 56766,
+    "earliest": "2016-05-12",
+    "fullname": "SSL 2016 Season 2 Qualifier Morning Group 2 WB Ro8",
+    "parent_id": 56750,
+    "latest": "2016-05-12",
+    "name": "Ro8"
+  },
+  {
+    "id": 56767,
+    "earliest": "2016-05-12",
+    "fullname": "SSL 2016 Season 2 Qualifier Morning Group 2 WB Ro4",
+    "parent_id": 56750,
+    "latest": "2016-05-12",
+    "name": "Ro4"
+  },
+  {
+    "id": 56768,
+    "earliest": "2016-05-12",
+    "fullname": "SSL 2016 Season 2 Qualifier Morning Group 2 WB Final",
+    "parent_id": 56750,
+    "latest": "2016-05-12",
+    "name": "Final"
+  },
+  {
+    "id": 56770,
+    "earliest": "2016-05-12",
+    "fullname": "SSL 2016 Season 2 Qualifier Morning Group 2 LB Round 2",
+    "parent_id": 56751,
+    "latest": "2016-05-12",
+    "name": "Round 2"
+  },
+  {
+    "id": 56811,
+    "earliest": "2016-05-12",
+    "fullname": "SSL 2016 Season 2 Qualifier Afternoon Group 1 WB Ro4",
+    "parent_id": 56798,
+    "latest": "2016-05-12",
+    "name": "Ro4"
+  },
+  {
+    "id": 56812,
+    "earliest": "2016-05-12",
+    "fullname": "SSL 2016 Season 2 Qualifier Afternoon Group 1 WB Final",
+    "parent_id": 56798,
+    "latest": "2016-05-12",
+    "name": "Final"
+  },
+  {
+    "id": 56822,
+    "earliest": "2016-05-12",
+    "fullname": "SSL 2016 Season 2 Qualifier Afternoon Group 4 WB Ro8",
+    "parent_id": 56804,
+    "latest": "2016-05-12",
+    "name": "Ro8"
+  },
+  {
+    "id": 56823,
+    "earliest": "2016-05-12",
+    "fullname": "SSL 2016 Season 2 Qualifier Afternoon Group 4 WB Ro4",
+    "parent_id": 56804,
+    "latest": "2016-05-12",
+    "name": "Ro4"
+  },
+  {
+    "id": 56824,
+    "earliest": "2016-05-12",
+    "fullname": "SSL 2016 Season 2 Qualifier Afternoon Group 4 WB Final",
+    "parent_id": 56804,
+    "latest": "2016-05-12",
+    "name": "Final"
+  },
+  {
+    "id": 56838,
+    "earliest": "2016-05-12",
+    "fullname": "SSL 2016 Season 2 Qualifier Afternoon Group 4 LB Round 2",
+    "parent_id": 56805,
+    "latest": "2016-05-12",
+    "name": "Round 2"
+  },
+  {
+    "id": 57616,
+    "earliest": "2016-06-02",
+    "fullname": "SSL 2016 Season 2 Challenge Group A",
+    "parent_id": 57615,
+    "latest": "2016-06-02",
+    "name": "Group A"
+  },
+  {
+    "id": 57617,
+    "earliest": "2016-06-09",
+    "fullname": "SSL 2016 Season 2 Challenge Group B",
+    "parent_id": 57615,
+    "latest": "2016-06-09",
+    "name": "Group B"
+  },
+  {
+    "id": 57618,
+    "earliest": "2016-06-16",
+    "fullname": "SSL 2016 Season 2 Challenge Group C",
+    "parent_id": 57615,
+    "latest": "2016-06-16",
+    "name": "Group C"
+  },
+  {
+    "id": 57619,
+    "earliest": "2016-06-23",
+    "fullname": "SSL 2016 Season 2 Challenge Group D",
+    "parent_id": 57615,
+    "latest": "2016-06-23",
+    "name": "Group D"
+  },
+  {
+    "id": 59585,
+    "earliest": "2016-07-14",
+    "fullname": "SSL 2016 Season 2 Main Event Group A",
+    "parent_id": 59583,
+    "latest": "2016-07-14",
+    "name": "Group A"
+  },
+  {
+    "id": 59586,
+    "earliest": "2016-07-21",
+    "fullname": "SSL 2016 Season 2 Main Event Group B",
+    "parent_id": 59583,
+    "latest": "2016-07-21",
+    "name": "Group B"
+  },
+  {
+    "id": 59587,
+    "earliest": "2016-07-28",
+    "fullname": "SSL 2016 Season 2 Main Event Group C",
+    "parent_id": 59583,
+    "latest": "2016-07-28",
+    "name": "Group C"
+  },
+  {
+    "id": 59588,
+    "earliest": "2016-08-04",
+    "fullname": "SSL 2016 Season 2 Main Event Group D",
+    "parent_id": 59583,
+    "latest": "2016-08-04",
+    "name": "Group D"
+  },
+  {
+    "id": 60476,
+    "earliest": "2016-08-11",
+    "fullname": "SSL 2016 Season 2 Main Event Playoffs Ro8",
+    "parent_id": 59584,
+    "latest": "2016-08-18",
+    "name": "Ro8"
+  },
+  {
+    "id": 60477,
+    "earliest": "2016-08-25",
+    "fullname": "SSL 2016 Season 2 Main Event Playoffs Ro4",
+    "parent_id": 59584,
+    "latest": "2016-09-01",
+    "name": "Ro4"
+  },
+  {
+    "id": 60478,
+    "earliest": "2016-09-11",
+    "fullname": "SSL 2016 Season 2 Main Event Playoffs Final",
+    "parent_id": 59584,
+    "latest": "2016-09-11",
+    "name": "Final"
+  }
+]
